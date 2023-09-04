@@ -5,5 +5,5 @@
  - *Journey*
  - *Hollow Knight*
  - *Final Fantasy X*
- - *Final Fantasy VII*
+ - *Final Fantasy VIII*
  - *Control*
